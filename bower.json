@@ -1,0 +1,20 @@
+{
+  "name": "duepuntozero",
+  "version": "0.0.0",
+  "authors": [
+    "Enrico Antonello <eantonello@h-art.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.10",
+    "backbone": null,
+    "underscore": null
+  }
+}
