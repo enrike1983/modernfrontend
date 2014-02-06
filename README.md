@@ -7,3 +7,4 @@ Scaffold for "modern" frontend apps. Contains:
 - Requirejs => manages js requirements
 - Underscore
 - Backbone
+- Compass / Sass
